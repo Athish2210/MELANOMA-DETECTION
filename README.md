@@ -1,6 +1,6 @@
 # MELANOMA-DETECTION
 
-![MELANOMA DETECTION](![image](https://github.com/Athish2210/MELANOMA-DETECTION/assets/87189348/6aa55289-9785-46ea-8846-7fa5fad179f1))
+![MELANOMA DETECTION]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fmolechex.com.au%2F2023%2F09%2F30%2Fknow-the-abcdes-of-melanoma-detection%2F&psig=AOvVaw07W7ZFdW74wPGgMv5n06eD&ust=1706954709551000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD4wfqzjIQDFQAAAAAdAAAAABAE))
 
 Welcome to the Stroke Prediction Project! This project utilizes machine learning techniques to predict the likelihood of an individual having a stroke based on various health-related features. The dataset used for training and testing the model is included in the repository.
 
